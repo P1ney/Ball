@@ -1,5 +1,5 @@
 # Warning! 
-# This program requires the Pygame package installed
+# This program requires the Pygame module installed
 # 
 import pygame
 import random
